@@ -1,16 +1,7 @@
-# rolldice
+# Rolldice
 
-A new Flutter project.
+Rolldice Flutter Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple flutter project that is about a dice-roll app. The notion of this app is that there is a home screen that has a button and a dice image and if the button is clicked then the circle numbers on the dice will change
